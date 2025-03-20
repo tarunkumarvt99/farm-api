@@ -1,0 +1,6 @@
+com\spring\rest\ErrorMessage.class
+com\spring\rest\MarketController.class
+com\spring\rest\Product.class
+com\spring\rest\MarketService.class
+com\spring\rest\SpringRestApplication.class
+com\spring\rest\Receipe.class
